@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: d40d6e1acd23bf34ea6722a95a2a780b
+  - enabled: 1
+    path: Assets/Scenes/OptionsScene.unity
+    guid: 8123055ba2cf7f84b84cf6e4a76cded0
+  - enabled: 1
+    path: Assets/Scenes/AboutScene.unity
+    guid: 77e926adcce2a4a41a57a63310bd1a69
+  - enabled: 1
+    path: Assets/Scenes/HowScene.unity
+    guid: 5b2ccdbf4c1ab254e997a2721ce2a389
+  - enabled: 1
+    path: Assets/Scenes/MainGame.unity
+    guid: b78e256f56d855f4eaeaaaac2bfdbc87
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 532560f18cf45da4b9040c8af5fc1737, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 65f6d7c4fc4859d46b0e68af02d8ac89, type: 2}
